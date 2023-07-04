@@ -6,3 +6,7 @@
 Stand for miniatures with sound.
 
 [![Turn on the moto](http://img.youtube.com/vi/snmUMMlYVm8/0.jpg)](https://www.youtube.com/watch?v=snmUMMlYVm8)
+
+## 3D model
+
+![](MiniatureStandVideo.gif)
