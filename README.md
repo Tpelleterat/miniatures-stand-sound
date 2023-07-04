@@ -5,4 +5,4 @@
 
 Stand for miniatures with sound.
 
-[![GAME VIDEO DEMO](http://img.youtube.com/vi/vCKdGLf996Q/0.jpg)](http://www.youtube.com/watch?v=vCKdGLf996Q)
+[![Turn on the moto](http://img.youtube.com/vi/snmUMMlYVm8/0.jpg)](https://www.youtube.com/watch?v=snmUMMlYVm8)
