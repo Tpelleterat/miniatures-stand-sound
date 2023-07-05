@@ -9,4 +9,8 @@ Stand for miniatures with sound.
 
 ## 3D model
 
-![](MiniatureStandVideo.gif)
+<img src="MiniatureStandVideo.gif" height="300">
+
+## Electronic
+
+<img src="ElectronicPart.PNG" height="420">
