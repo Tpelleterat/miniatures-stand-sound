@@ -9,8 +9,14 @@ Stand for miniatures with sound.
 
 ## 3D model
 
-<img src="MiniatureStandVideo.gif" height="300">
+<img src="media/MiniatureStandVideo.gif" height="300">
 
 ## Electronic
 
-<img src="ElectronicPart.PNG" height="420">
+<img src="media/ElectronicPart.PNG" height="420">
+
+### Components
+
+The system contains 4 components :
+
+-
