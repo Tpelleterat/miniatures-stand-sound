@@ -19,4 +19,9 @@ Stand for miniatures with sound.
 
 The system contains 4 components :
 
--
+- DFPlayer Mini with sd card
+- Speaker 3 Watt 8 Ohm
+- Button
+- Battery support x3 AAA 4,5 V
+
+<img src="electronic/ElectronicSchema_bb.png" height="400">
